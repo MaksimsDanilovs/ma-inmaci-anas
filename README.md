@@ -1,1 +1,5 @@
-# ma-inmaci-anas
+# masinmacisanas-rvt
+
+## Instalācija
+pip install -r requirements.txt
+
